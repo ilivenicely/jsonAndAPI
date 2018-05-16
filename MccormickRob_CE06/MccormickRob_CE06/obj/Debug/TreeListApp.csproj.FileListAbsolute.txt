@@ -1,0 +1,18 @@
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\bin\Debug\TreeListApp.exe.config
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\bin\Debug\TreeListApp.exe
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\bin\Debug\TreeListApp.pdb
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.Form1.resources
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.exe
+\\vmware-host\Shared Folders\Desktop\MccormickRob_CE06\obj\Debug\TreeListApp.pdb
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\bin\Debug\TreeListApp.exe.config
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.exe
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.pdb
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\bin\Debug\TreeListApp.exe
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\bin\Debug\TreeListApp.pdb
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.Form1.resources
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\week 3\MccormickRob_CE06\MccormickRob_CE06\obj\Debug\TreeListApp.csproj.GenerateResource.Cache
